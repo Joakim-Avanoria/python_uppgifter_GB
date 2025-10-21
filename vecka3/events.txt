@@ -1,0 +1,25 @@
+INFO: Start
+ERROR: Disk full
+WARN: Low battery
+INFO: Task completed
+ERROR: Disk full
+WARN: Low battery
+INFO: User logged in
+INFO: File uploaded
+ERROR: Disk full
+WARN: Low battery
+INFO: Process started
+ERROR: Disk full
+INFO: Task completed
+INFO: User logged in
+WARN: Low battery
+INFO: File uploaded
+ERROR: Disk full
+INFO: Process started
+ERROR: Disk full
+INFO: Task completed
+WARN: Low battery
+INFO: User logged in
+INFO: File uploaded
+ERROR: Disk full
+INFO: Process started
